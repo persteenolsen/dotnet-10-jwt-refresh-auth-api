@@ -4,7 +4,7 @@
 
 # Last Updated
 
-- 27-09-2026
+- 03-10-2026
 
 The Web API was made without the ASP.NET Core Identity using custom JWT middleware
 
